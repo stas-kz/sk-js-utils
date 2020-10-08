@@ -6,7 +6,7 @@
  * @returns {null|string[]}
  */
 
-const explode = (delimiter, string) => (
+export const explode = (delimiter, string) => (
     delimiter === "" ||
     delimiter === false ||
     delimiter === null ||
