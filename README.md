@@ -2,13 +2,17 @@
 
 ## Installation
 
-`npn install sk-js-utils`
+`npm install sk-js-utils`
 
 ## Usage
 
 `import { getDate } from "sk-js-utils";`
 
 ## Utilities
+
+### explode
+
+Разбивает строку с помощью разделителя
 
 ### getDate
 
